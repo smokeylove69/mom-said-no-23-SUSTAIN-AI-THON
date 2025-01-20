@@ -11,6 +11,7 @@ Our project "WaveLength" is focused on SDG 3 and students' mental health. It is 
 # Causes and Case Studies
 The mental health of students has become a growing concern in recent years, with rising cases of stress, anxiety, depression, and suicides. The pressure to excel academically, societal expectations, and competitive environments often create overwhelming stress. Factors such as bullying, lack of support systems, financial strain, and the stigma surrounding mental health further exacerbate the issue. Additionally, the overuse of social media contributes to feelings of inadequacy and isolation. The absence of open conversations and accessible mental health resources leaves many students feeling helpless, highlighting the urgent need for safe spaces, counseling, and awareness to foster a supportive environment.
 Case studies supporting and proving the pressing issue of this concern
+
 1)https://www.indiatoday.in/india/story/engineering-student-jumps-from-university-building-in-telangana-sangareddy-dies-2484951-2024-01-05
 2)https://timesofindia.indiatimes.com/city/indore/indore-teen-dies-by-suicide-after-teacher-alleges-rape/articleshow/112362133.cms
 3)https://timesofindia.indiatimes.com/city/rajkot/tragic-suicide-of-class-12-student-highlights-academic-pressure-crisis/articleshow/115185007.cms
