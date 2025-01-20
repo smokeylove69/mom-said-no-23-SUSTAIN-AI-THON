@@ -37,10 +37,16 @@ Database
 This platform promotes mental health in a very compassionate and inclusive manner. Everyone gets access to the support they need, and it is through anonymous counseling that helps people seek help without fear of judgment and thus breaks the stigma around mental health. Emergency helplines and quick access to services provide immediate assistance in times of need. Through discussion forums, people can share their stories and connect with others, fostering a sense of community and belonging. The platform also empowers individuals with interactive resources like blogs, videos, and courses, making mental health education relatable and accessible. Volunteers and students are actively engaged, creating a network of support and amplifying the impact. With its confidential text messaging system, it ensures everyone feels safe reaching out, helping to build a healthier, more connected world.
 
 # Solutions
--Different logins for Students and Volunteers (like psychology students, etc..)
+-Different logins for Students and Volunteers (like psychology students(volunteer), etc..)
+-Personalized dashboards
 -Creating an open Chatspace for any topic related to the scope 
 -Personal and Anonymous counseling(user identified by nickname) via personal messages and calls
--
+-Courses/Group call session for Awareness and Mental Wellness
+-AI chatbots across pages for extensive support
+-Space for showcasing their creativity and a space for them to vent a blog space
+-Feedback Mechanism across multiple sections of the site.
+
+
 
 
 
