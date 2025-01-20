@@ -34,7 +34,7 @@ Back-End
 -ExpressJS
 
 Database
--MySQL
+-Mongodb
 
 # Novality
 This platform promotes mental health in a very compassionate and inclusive manner. Everyone gets access to the support they need, and it is through anonymous counseling that helps people seek help without fear of judgment and thus breaks the stigma around mental health. Emergency helplines and quick access to services provide immediate assistance in times of need. Through discussion forums, people can share their stories and connect with others, fostering a sense of community and belonging. The platform also empowers individuals with interactive resources like blogs, videos, and courses, making mental health education relatable and accessible. Volunteers and students are actively engaged, creating a network of support and amplifying the impact. With its confidential text messaging system, it ensures everyone feels safe reaching out, helping to build a healthier, more connected world.
